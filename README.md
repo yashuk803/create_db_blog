@@ -8,7 +8,7 @@ On the command line  run this command
  
 ## Example (Optional)
 ```bash
-mysqldump -u USER -pPASSWORD DATABASE > /path/to/file/<filename>.sql
+mysqldump -u USER -pPASSWORD DATABASE > /path/to/file/blog.sql
 ```
 
 ---
